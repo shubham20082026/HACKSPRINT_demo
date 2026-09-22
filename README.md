@@ -75,16 +75,3 @@ Rather than building "another security dashboard clone," **AXIOM_zero reimagines
 * **Package Management**: [pnpm workspace](https://pnpm.io/) monorepo structure
 
 ---
-
-## Quickstart
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/shubham20082026/HACKSPRINT_demo.git
-cd HACKSPRINT_demo
-
-# 2. Install dependencies via pnpm
-pnpm install
-
-# 3. Launch local development server
-pnpm dev
